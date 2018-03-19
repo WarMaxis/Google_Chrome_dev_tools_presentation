@@ -4,7 +4,7 @@ My presentation (_in Polish language_) about __Web Browsers Developer Tools__ on
 
 You can learn about possibilities and many tools in Google Chrome :-)
 
-Check this on __[http://slides.com/warmaxis/web_browsers_developer_tools/fullscreen#/](http://slides.com/warmaxis/web_browsers_developer_tools/fullscreen#/)__
+Check this on __[http://slides.com/warmaxis/web_browsers_developer_tools/fullscreen#/](http://slides.com/warmaxis/web_browsers_developer_tools/fullscreen#/)__ or [https://warmaxis.github.io/Google_Chrome_dev_tools_presentation/](https://warmaxis.github.io/Google_Chrome_dev_tools_presentation/)
 
 You can also see screenshots and image assets in this repository.
 
