@@ -1,6 +1,6 @@
 # Google Chrome dev tools presentation
 
-Presentation (_in Polish language_) about __Web Browsers Developer Tools__ on an example _Google Chrome_ (__version 62__).
+My presentation (_in Polish language_) about __Web Browsers Developer Tools__ on an example _Google Chrome_ (__version 62__).
 
 You can learn about possibilities and many tools in Google Chrome :-)
 
